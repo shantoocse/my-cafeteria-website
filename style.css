@@ -1,0 +1,48 @@
+.web-name{
+    text-align: center;
+}
+
+.web-name h1 {
+
+    color: rgb(0, 0, 0);
+    background-color: #70b5d2;
+    display: inline-block;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.food-item {
+     border: 5px solid #ed00ff;
+     border-radius: 10px;
+     padding: 6px;
+     text-align: center;
+     width: 400px;
+     height: 500px;
+}
+.food-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+} 
+.header-name {
+    text-align: center;
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(132, 14, 222);
+    background: #FBE580;
+    display: inline-block;
+    padding: 12px;
+    border-radius: 8px;
+    
+}
+
